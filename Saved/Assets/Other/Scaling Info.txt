@@ -1,0 +1,5 @@
+Correct scale: 91.44
+
+For a raw WoW-scale OBJ imported directly into Unreal Engine 5.7, set:
+
+Import Uniform Scale: 91.44
